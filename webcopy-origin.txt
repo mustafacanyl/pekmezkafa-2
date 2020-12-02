@@ -1,0 +1,280 @@
+Uri: https://preminyum.com/
+File Name: C:\Downloaded Web Sites\preminyum.com\index.htm
+Content Type: text/html
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=174
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=105
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=170
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454.png
+Content Type: image/png
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/css/custom.css?v=2
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\css\custom.css
+Content Type: text/css
+
+Uri: https://preminyum.com/sss
+File Name: C:\Downloaded Web Sites\preminyum.com\sss.html
+Content Type: text/html
+
+Uri: https://preminyum.com/index
+File Name: C:\Downloaded Web Sites\preminyum.com\index.html
+Content Type: text/html
+
+Uri: https://preminyum.com/urunler
+File Name: C:\Downloaded Web Sites\preminyum.com\urunler.html
+Content Type: text/html
+
+Uri: https://preminyum.com/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/css/custom.css
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\css\custom-1.css
+Content Type: text/css
+
+Uri: https://preminyum.com/index.php
+File Name: C:\Downloaded Web Sites\preminyum.com\index.php.html
+Content Type: text/html
+
+Uri: https://preminyum.com/terms
+File Name: C:\Downloaded Web Sites\preminyum.com\terms.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-112746228-2
+File Name: C:\Downloaded Web Sites\preminyum.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-797950435
+File Name: C:\Downloaded Web Sites\preminyum.com\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/shield1.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\shield1.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=16
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-1.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=61
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-1.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=105
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-1.png
+Content Type: image/png
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/Asset189.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\Asset189.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/Asset190.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\Asset190.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/Asset194.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\Asset194.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/store.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\store.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/bb.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\bb.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/kk.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\kk.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/urun.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\urun.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/faq.svg
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\faq.svg
+Content Type: image/svg+xml
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/my1.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\my1.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/img/my2.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\img\my2.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/themes/preminyum/images/logo.webp
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum\images\logo.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/js/slim.min.js
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\js\slim.min.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/themes/preminyum-v2/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\preminyum.com\themes\preminyum-v2\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=102
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-2.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=158
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-2.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=56
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-2.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=200
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-3.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=240
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-3.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=168
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-3.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=209
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-4.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=82
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-4.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=232
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-4.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=58
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-5.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=36
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-5.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=148
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-5.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=208
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-6.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=9
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-6.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=97
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-6.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=152
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-7.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://support.cloudflare.com/hc/en-us/articles/200170016-What-is-Email-Address-Obfuscation-
+File Name: C:\Downloaded Web Sites\preminyum.com\hc\en-us\articles\200170016-What-is-Email-Address-Obfuscation-.html
+Content Type: text/html
+
+Uri: https://support.cloudflare.com/hc/en-us/categories/200275218-Getting-Started
+File Name: C:\Downloaded Web Sites\preminyum.com\hc\en-us\categories\200275218-Getting-Started.html
+Content Type: text/html
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=17
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-7.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1606732454.png?x=145
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1606732454-8.png
+Content Type: image/png
+
+Uri: https://preminyum.com/images/packets/packet_image_1535755679.webp?x=43
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535755679-7.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/images/packets/packet_image_1535818069.webp?x=1
+File Name: C:\Downloaded Web Sites\preminyum.com\images\packets\packet_image_1535818069-8.webp
+Content Type: image/webp
+
+Uri: https://preminyum.com/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://preminyum.com/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\preminyum.com\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://dash.cloudflare.com/sign-up?utm_source=email_protection
+File Name: C:\Downloaded Web Sites\preminyum.com\sign-up.html
+Content Type: text/html
+
+Uri: https://www.cloudflare.com/5xx-error-landing/
+File Name: C:\Downloaded Web Sites\preminyum.com\5xx-error-landing\index.htm
+Content Type: text/html
+
